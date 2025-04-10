@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g2x6lx715-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/g2x6lx715-java-quarkus
